@@ -3,7 +3,7 @@ import streamlit as st
 
 input = st.Page(
     page = "input.py",
-    title = "input",
+    title = "CMC Gerbang Pujian - Absensi   ",
     icon = "📊"
 )
 
